@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DigitalBank/DigitalBankWCF/.vs
+/DigitalBank/DigitalBankWCF.Data/.vs
+/DigitalBank/DigitalBankWCF.Presentation/.vs
+/DigitalBank/DigitalBankWCF.Utilities/.vs

@@ -1,0 +1,7 @@
+C:\Users\andru\Documents\Proyecto .Net\DigitalBankWCF\bin\DigitalBankWCF.dll.config
+C:\Users\andru\Documents\Proyecto .Net\DigitalBankWCF\bin\DigitalBankWCF.dll
+C:\Users\andru\Documents\Proyecto .Net\DigitalBankWCF\bin\DigitalBankWCF.pdb
+C:\Users\andru\Documents\Proyecto .Net\DigitalBankWCF\obj\Debug\DigitalBankWCF.csproj.AssemblyReference.cache
+C:\Users\andru\Documents\Proyecto .Net\DigitalBankWCF\obj\Debug\DigitalBankWCF.csproj.CoreCompileInputs.cache
+C:\Users\andru\Documents\Proyecto .Net\DigitalBankWCF\obj\Debug\DigitalBankWCF.dll
+C:\Users\andru\Documents\Proyecto .Net\DigitalBankWCF\obj\Debug\DigitalBankWCF.pdb

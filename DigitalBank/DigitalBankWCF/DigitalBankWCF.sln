@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBankWCF.Negocio", "DigitalBankWCF.Negocio.csproj", "{6BDD5813-3BB0-4644-94D9-F0C506C819BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{C1D812E9-0796-4332-868B-C3FAAC60C415}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{E2E1D8BB-0180-4521-BADC-039106FE2420}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{DCEDE9F2-CFB6-4357-B380-2C89539A41D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBankWCF.Data", "..\DigitalBankWCF.Data\DigitalBankWCF.Data.csproj", "{8CCD8B22-5C50-4247-A50C-D53629F9C030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBankWCF.Utilities", "..\DigitalBankWCF.Utilities\DigitalBankWCF.Utilities.csproj", "{808CBADC-E993-46AD-9470-BEC7644D5B4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{EF3A863D-A849-4DA0-95C2-C4F0C9FA3FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalBankWCF.Presentation", "..\DigitalBankWCF.Presentation\DigitalBankWCF.Presentation.csproj", "{A1CFC0A3-949E-4DD7-8365-97937602A181}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6BDD5813-3BB0-4644-94D9-F0C506C819BC} = {6BDD5813-3BB0-4644-94D9-F0C506C819BC}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDD5813-3BB0-4644-94D9-F0C506C819BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDD5813-3BB0-4644-94D9-F0C506C819BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDD5813-3BB0-4644-94D9-F0C506C819BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDD5813-3BB0-4644-94D9-F0C506C819BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCD8B22-5C50-4247-A50C-D53629F9C030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCD8B22-5C50-4247-A50C-D53629F9C030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCD8B22-5C50-4247-A50C-D53629F9C030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCD8B22-5C50-4247-A50C-D53629F9C030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808CBADC-E993-46AD-9470-BEC7644D5B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808CBADC-E993-46AD-9470-BEC7644D5B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808CBADC-E993-46AD-9470-BEC7644D5B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808CBADC-E993-46AD-9470-BEC7644D5B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CFC0A3-949E-4DD7-8365-97937602A181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CFC0A3-949E-4DD7-8365-97937602A181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CFC0A3-949E-4DD7-8365-97937602A181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CFC0A3-949E-4DD7-8365-97937602A181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6BDD5813-3BB0-4644-94D9-F0C506C819BC} = {C1D812E9-0796-4332-868B-C3FAAC60C415}
+		{8CCD8B22-5C50-4247-A50C-D53629F9C030} = {E2E1D8BB-0180-4521-BADC-039106FE2420}
+		{808CBADC-E993-46AD-9470-BEC7644D5B4A} = {DCEDE9F2-CFB6-4357-B380-2C89539A41D6}
+		{A1CFC0A3-949E-4DD7-8365-97937602A181} = {EF3A863D-A849-4DA0-95C2-C4F0C9FA3FE8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B78C2D-6DE5-4383-982A-4B6C7505333A}
+	EndGlobalSection
+EndGlobal

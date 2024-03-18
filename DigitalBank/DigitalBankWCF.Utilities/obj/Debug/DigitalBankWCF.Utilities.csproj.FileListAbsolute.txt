@@ -1,0 +1,11 @@
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\bin\Debug\DigitalBankWCF.Utilities.dll.config
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\bin\Debug\DigitalBankWCF.Utilities.dll
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\bin\Debug\DigitalBankWCF.Utilities.pdb
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\bin\Debug\DigitalBankWCF.Data.dll
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\bin\Debug\DigitalBankWCF.Data.pdb
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\bin\Debug\DigitalBankWCF.Data.dll.config
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\obj\Debug\DigitalBankWCF.Utilities.csproj.AssemblyReference.cache
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\obj\Debug\DigitalBankWCF.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\obj\Debug\DigitalB.52B8B573.Up2Date
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\obj\Debug\DigitalBankWCF.Utilities.dll
+C:\Users\andru\Documents\Proyecto .Net\DigitalBank\DigitalBankWCF.Utilities\obj\Debug\DigitalBankWCF.Utilities.pdb
